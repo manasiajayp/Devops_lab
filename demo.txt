@@ -1,0 +1,4 @@
+OSI model, designed to allow open
+system to communicate.
+Connection oriented
+Connection less
